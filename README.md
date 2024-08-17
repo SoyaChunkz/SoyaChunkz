@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sameer aka SoyaChunkz</h1>
 <h3 align="center">Welcome to my GitHub profile! I'm a full-stack web developer with a deep interest in Data Structures and Algorithms (DSA). Currently in my final year of Bachelor's in Engineering, I like building efficient and scalable web applications.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=soyachunkz" alt="soyachunkz" /></a> </p>
-
 - 🔭 I’m currently working on [DSR](https://github.com/SoyaChunkz/DSR.git)
 
 - 📫 How to reach me **sameermaroof26@gmail.com**

@@ -3,6 +3,8 @@
 
 - 🔭 Checkout my latest project [DSR](https://github.com/SoyaChunkz/DSR-Base.git)
 
+- ⚒️ Currently working on [DocQA](https://github.com/SoyaChunkz/DocQA.git)
+
 - 📫 How to reach me **sameermaroof26@gmail.com**
 
 <h3 align="left">Connect with me:</h3>

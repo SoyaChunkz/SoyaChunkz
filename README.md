@@ -3,7 +3,7 @@
 
 - 🔭 Checkout my latest project [DSR](https://github.com/SoyaChunkz/DSR-Base.git)
 
-- ⚒️ Currently working on [DocQA](https://github.com/SoyaChunkz/DocQA.git)
+- ⚒️ Currently learning SprigBoot and working on [JournalApi](https://github.com/SoyaChunkz/JournalApi)
 
 - 📫 How to reach me **sameermaroof26@gmail.com**
 

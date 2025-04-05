@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sameer aka SoyaChunkz</h1>
 <h3 align="center">Welcome to my GitHub profile! I'm a full-stack web developer with a deep interest in Data Structures and Algorithms (DSA). Currently in my final year of Bachelor's in Engineering, I like building efficient and scalable web applications.</h3>
 
-- 🔭 Checkout my latest project [DSR](https://github.com/SoyaChunkz/DSR-Base.git)
-
-- ⚒️ Currently learning SprigBoot and working on [JournalApi](https://github.com/SoyaChunkz/JournalApi)
-
 - 📫 How to reach me **sameermaroof26@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
